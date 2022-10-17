@@ -1,0 +1,5 @@
+name: BlockKiller
+version: '${project.version}'
+main: blockkiller.blockkiller.Blockkiller
+api-version: 1.19
+description: Pourquoi
